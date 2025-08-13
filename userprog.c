@@ -2,6 +2,6 @@
 
 int main()
 {
-      printf("Hello LWL Team latest \n");
+      printf("Hello LWL latest \n");
       return 0;
 }
